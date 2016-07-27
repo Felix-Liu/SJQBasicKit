@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SJQBasicKit_Tests' do
+  pod 'SJQBasicKit', :path => '../'
+  
+  
+end
