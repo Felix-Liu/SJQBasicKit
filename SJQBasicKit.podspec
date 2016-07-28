@@ -30,10 +30,10 @@ Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views
 
   s.ios.deployment_target = '7.0'
 
-  s.source_files = 'SJQBasicKit/Classes/**/*.{h,m}'
+  s.source_files = 'SJQBasicKit/Classes/**/*'
   
   s.resource_bundles = {
-    'SJQBasicKit' => ['SJQBasicKit/Classes/Resources/*.png']
+    'SJQBasicKit' => ['SJQBasicKit/Classes/**/*']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
