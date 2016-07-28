@@ -253,6 +253,7 @@
 		DCB35A511D49F5EF00D04B69 /* search_sort_table_check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search_sort_table_check.png; sourceTree = "<group>"; };
 		DCB35A521D49F5EF00D04B69 /* search_text_view_clear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search_text_view_clear.png; sourceTree = "<group>"; };
 		DCB35A531D49F5EF00D04B69 /* Simulator Screen Shot 2016年7月14日 下午1.58.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 2016年7月14日 下午1.58.53.png"; sourceTree = "<group>"; };
+		DCB35A561D49F93200D04B69 /* icon_040.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = icon_040.gif; sourceTree = "<group>"; };
 		DD36AAE2ECC5AD48B34ACB37C0B66C4B /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		DD49D57C313145B3E5BB6AEEB973331C /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E09E4EE7608D0610C58AEE929067D1EA /* AFNetworking-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-prefix.pch"; sourceTree = "<group>"; };
@@ -594,6 +595,7 @@
 		DCB35A491D49EE3600D04B69 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				DCB35A561D49F93200D04B69 /* icon_040.gif */,
 				DCB35A4F1D49F5EF00D04B69 /* search_segment_down.png */,
 				DCB35A501D49F5EF00D04B69 /* search_segment_up.png */,
 				DCB35A511D49F5EF00D04B69 /* search_sort_table_check.png */,
