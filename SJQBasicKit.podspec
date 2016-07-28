@@ -28,7 +28,7 @@ Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views
   s.source           = { :git => 'https://gitlab.com/SJQ/SJQBasicKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
   s.source_files = 'SJQBasicKit/Classes/**/*'
   
