@@ -32,9 +32,9 @@ Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views
 
   s.source_files = 'SJQBasicKit/Classes/**/*.{h,m}'
   
-  # s.resource_bundles = {
-  #   'SJQBasicKit' => ['SJQBasicKit/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'SJQBasicKit' => ['SJQBasicKit/Resources/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
