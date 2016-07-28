@@ -33,7 +33,7 @@ Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views
   s.source_files = 'SJQBasicKit/Classes/**/*.{h,m}'
   
   s.resource_bundles = {
-    'SJQBasicKit' => ['SJQBasicKit/Resources/*.png']
+    'SJQBasicKit' => ['SJQBasicKit/Classes/Resources/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
