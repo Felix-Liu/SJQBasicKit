@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '3BE219F8C2F794C6B3FEC96B'
+               BlueprintIdentifier = '8B243453AE2278555D37530E'
                BlueprintName = 'SJQBasicKit'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'SJQBasicKit.framework'>
