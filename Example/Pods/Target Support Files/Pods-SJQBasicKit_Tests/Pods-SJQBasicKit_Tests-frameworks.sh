@@ -84,8 +84,14 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "Pods-SJQBasicKit_Tests/AFNetworking.framework"
+  install_framework "Pods-SJQBasicKit_Tests/HandyFrame.framework"
+  install_framework "Pods-SJQBasicKit_Tests/Masonry.framework"
   install_framework "Pods-SJQBasicKit_Tests/SJQBasicKit.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "Pods-SJQBasicKit_Tests/AFNetworking.framework"
+  install_framework "Pods-SJQBasicKit_Tests/HandyFrame.framework"
+  install_framework "Pods-SJQBasicKit_Tests/Masonry.framework"
   install_framework "Pods-SJQBasicKit_Tests/SJQBasicKit.framework"
 fi

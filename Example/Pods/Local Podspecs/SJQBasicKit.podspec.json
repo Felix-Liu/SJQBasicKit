@@ -1,9 +1,9 @@
 {
   "name": "SJQBasicKit",
   "version": "0.1.0",
-  "summary": "A short description of SJQBasicKit.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/SJQBasicKit",
+  "summary": "Basic kit of SJQ group.",
+  "description": "Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views, common models, etc.",
+  "homepage": "https://gitlab.com/SJQ/SJQBasicKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,22 @@
     "刘小飞": "275570823@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/SJQBasicKit.git",
+    "git": "https://gitlab.com/SJQ/SJQBasicKit.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "7.0"
   },
-  "source_files": "SJQBasicKit/Classes/**/*"
+  "source_files": "SJQBasicKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "HandyFrame": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
 }

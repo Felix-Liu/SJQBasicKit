@@ -38,5 +38,7 @@ Basic kit of SJQ group used by SiJiQing app and MoJie app, such as, common views
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AFNetworking', 'HandyFrame'
+  s.dependency 'AFNetworking'
+  s.dependency 'HandyFrame'
+  s.dependency 'Masonry'
 end

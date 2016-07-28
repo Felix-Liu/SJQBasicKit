@@ -1,5 +1,25 @@
 PODS:
-  - SJQBasicKit (0.1.0)
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - HandyFrame (1.1.1)
+  - Masonry (1.0.1)
+  - SJQBasicKit (0.1.0):
+    - AFNetworking
+    - HandyFrame
+    - Masonry
 
 DEPENDENCIES:
   - SJQBasicKit (from `../`)
@@ -9,6 +29,9 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SJQBasicKit: 8241c8326abdd8bdc101ea36ae3da2cd71e8bbb8
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  HandyFrame: 4e95cc495e84e91f9434fe316f992ba4ee713e3a
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SJQBasicKit: 0c37a29569ce8d8a423fe6fd373beb230330fb24
 
 COCOAPODS: 0.39.0
