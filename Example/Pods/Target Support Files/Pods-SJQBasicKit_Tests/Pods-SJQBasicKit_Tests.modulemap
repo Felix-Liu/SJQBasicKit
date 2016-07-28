@@ -1,0 +1,6 @@
+framework module Pods_SJQBasicKit_Tests {
+  umbrella header "Pods-SJQBasicKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

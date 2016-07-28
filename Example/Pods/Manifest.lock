@@ -1,0 +1,14 @@
+PODS:
+  - SJQBasicKit (0.1.0)
+
+DEPENDENCIES:
+  - SJQBasicKit (from `../`)
+
+EXTERNAL SOURCES:
+  SJQBasicKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SJQBasicKit: 8241c8326abdd8bdc101ea36ae3da2cd71e8bbb8
+
+COCOAPODS: 0.39.0
